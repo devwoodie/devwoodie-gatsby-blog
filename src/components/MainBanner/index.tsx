@@ -46,7 +46,7 @@ const MainBanner: React.FC<MainBannerProps> = ({ author }) => {
           {/* space-between을 위한 빈 div */}
           <div />
           <S.DropdownButton onMouseLeave={() => setIsDropdownOpened(false)}>
-            <div onMouseEnter={() => setIsDropdownOpened(true)}>etc.</div>
+            <div onMouseEnter={() => setIsDropdownOpened(true)}>legacy.</div>
             {isDropdownOpened && (
               <S.Dropdown>
                 {Object.keys(dropdown).map(

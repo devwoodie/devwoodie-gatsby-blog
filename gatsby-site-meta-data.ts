@@ -5,7 +5,7 @@ export default {
   title: `dev-woodie.com`,
   description: `개발자 우디`,
   language: `ko`,
-  siteUrl: `https://dev-woodie.com/`,
+  siteUrl: `https://devwoodie.com/`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
 
   /**
@@ -13,7 +13,7 @@ export default {
    */
   comments: {
     utterances: {
-      repo: ``, //`danmin20/danmin-gatsby-blog`,
+      repo: `devwoodie/devwoodie-gatsby-blog`,
     },
   },
 
@@ -32,11 +32,11 @@ export default {
     social: {
       github: `https://github.com/devwoodie`,
       linkedIn: `https://www.linkedin.com/in/dongwoo-yu`,
-      resume: `https://www.figma.com/file/dtkCl6G7G5DVe18DN2LWny/%EC%9D%B4%EC%A0%95%EB%AF%BC-%EC%9D%B4%EB%A0%A5%EC%84%9C?node-id=0%3A1`,
+      resume: `https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd`,
     },
     dropdown: {
-      tistory: '',
-      velog: '',
+      blog: 'https://devwoodie.github.io/',
+      portfolio: 'https://devwoodie.github.io/'
     },
   },
 
