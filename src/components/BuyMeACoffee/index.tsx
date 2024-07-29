@@ -71,12 +71,12 @@ const BuyMeACoffee: React.FC = () => {
                     <a href={toss.link}>toss.me/danmin</a>
                   </S.List>
                 )}
-                <S.List>
-                  <div>송금 QR</div>
-                  <S.Qr style={{ width: 30 }}>
+                <S.List style={{alignItems: "center"}}>
+                  <div style={{textAlign: "center"}}>송금 QR</div>
+                  <S.Qr style={{ width: 160, justifyContent: "center" }}>
                     {kakaopay.qrCode && (
                       <div>
-                        <img src={kakaoIcon} />
+                        <img src={kakaoIcon} style={{width: "70px"}} />
                         <Image alt='kakaopay' src={kakaopay.qrCode} />
                       </div>
                     )}
