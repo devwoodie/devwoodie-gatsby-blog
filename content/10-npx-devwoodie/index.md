@@ -1,5 +1,5 @@
 ---
-emoji: 🚨
+emoji: 🥑
 title: 'Node.js로 CLI 만들어서 npm 배포하기 (npx devwoodie)'
 date: '2024-07-25'
 categories: featured-Dev Node.js

@@ -1,6 +1,6 @@
 ---
 emoji: 🎉
-title: '2022 INFCON 후기 (내용 정리)'
+title: '2022 INFCON 후기'
 date: '2022-09-05'
 categories: featured-Experience
 ---

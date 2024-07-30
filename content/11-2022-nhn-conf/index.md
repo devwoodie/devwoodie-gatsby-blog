@@ -1,6 +1,6 @@
 ---
 emoji: 🎊
-title: '2022 NHN 컨퍼런스 후기 (내용 정리)'
+title: '2022 NHN 컨퍼런스 후기'
 date: '2022-11-24'
 categories: featured-Experience
 ---
