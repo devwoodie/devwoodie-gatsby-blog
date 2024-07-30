@@ -45,12 +45,16 @@ export default {
    */
   featured: [
     {
-      title: 'DEV',
-      category: 'featured-Dev',
+      title: 'EXPERIENCE',
+      category: 'featured-Experience',
     },
     {
       title: 'LIFE',
       category: 'featured-회고',
+    },
+    {
+      title: 'DEV',
+      category: 'featured-Dev',
     },
   ],
 
@@ -144,13 +148,39 @@ export default {
       },
     },
     {
-      title: 'Savings Book(가계부)',
+      title: 'Savings Book',
       description: '수입/지출 기록하고 그래프로 한 눈에 보기',
       techStack: ['React', 'JavaScript'],
       thumbnailUrl: 'projects-thumb/6.png',
       links: {
         post: '',
         github: 'https://github.com/devwoodie/savings-book-frontend',
+        demo: '',
+        googlePlay: '',
+        appStore: '',
+      },
+    },
+    {
+      title: '시더스이플랫폼 - 회사',
+      description: 'React-Native webview를 이용한 하이브리드 앱 개발',
+      techStack: ['React-Native', 'React', 'JavaScript'],
+      thumbnailUrl: 'projects-thumb/default.png',
+      links: {
+        post: 'https://spring-fang-155.notion.site/IT-d6c34909dee04beaa351cf4d58e02c6a',
+        github: '',
+        demo: '',
+        googlePlay: '',
+        appStore: '',
+      },
+    },
+    {
+      title: '이머니 - 회사',
+      description: '증권 투자의 길을 안내하는 AI 종목 추천 서비스 제공 기업',
+      techStack: ['JavaScript', 'Css', 'Html'],
+      thumbnailUrl: 'projects-thumb/default.png',
+      links: {
+        post: 'https://spring-fang-155.notion.site/eMoney-91fcd7af8d1a4788b255f0d6c6966674',
+        github: '',
         demo: '',
         googlePlay: '',
         appStore: '',

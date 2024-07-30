@@ -1,8 +1,6 @@
 import { useState } from 'react';
 import ReactRotatingText from 'react-rotating-text';
-
 import { Author } from '@/src/type';
-
 import BuyMeACoffee from '../BuyMeACoffee';
 import Image from '../Image';
 import * as S from './styled';
@@ -33,7 +31,7 @@ const MainBanner: React.FC<MainBannerProps> = ({ author }) => {
           </strong>
           입니다.
         </S.Title>
-        <Image alt='thumbnail' src='thumbnail.png' />
+        <Image alt='thumbnail' src='thumbnail2.png' />
         <S.SocialWrapper>
           {Object.keys(social).map(
             (link, index) =>
