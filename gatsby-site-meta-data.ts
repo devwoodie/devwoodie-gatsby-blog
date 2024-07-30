@@ -161,6 +161,19 @@ export default {
       },
     },
     {
+      title: 'wmii - what movie is it?',
+      description: '영화 소개, 검색, 커뮤니티로 구성된 모바일 웹',
+      techStack: ['React', 'JavaScript'],
+      thumbnailUrl: 'projects-thumb/7.png',
+      links: {
+        post: '',
+        github: 'https://github.com/devwoodie/wmii-frontend',
+        demo: '',
+        googlePlay: '',
+        appStore: '',
+      },
+    },
+    {
       title: '시더스이플랫폼 - 회사',
       description: 'React-Native webview를 이용한 하이브리드 앱 개발',
       techStack: ['React-Native', 'React', 'JavaScript'],
