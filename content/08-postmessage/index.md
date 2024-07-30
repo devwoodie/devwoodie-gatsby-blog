@@ -2,7 +2,7 @@
 emoji: 📮
 title: 'React-Native-Webview(웹뷰) 데이터 통신 Feat. PostMessage'
 date: '2024-02-23'
-categories: featured-Dev React&RN
+categories: Dev React&RN
 ---
 
 ## Webview PostMessage

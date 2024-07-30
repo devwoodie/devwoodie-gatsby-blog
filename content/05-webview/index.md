@@ -2,7 +2,7 @@
 emoji: 📲
 title: 'React-Native-Webview(웹뷰)로 하이브리드 앱 만들기'
 date: '2023-06-10'
-categories: featured-Dev React&RN
+categories: Dev React&RN
 ---
 
 ![](1.png)

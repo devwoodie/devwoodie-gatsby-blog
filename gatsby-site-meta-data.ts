@@ -2,7 +2,7 @@ export default {
   /**
    * basic Information
    */
-  title: `dev-woodie.com`,
+  title: `devwoodie.com`,
   description: `개발자 우디`,
   language: `ko`,
   siteUrl: `https://devwoodie.com/`,
@@ -45,16 +45,12 @@ export default {
    */
   featured: [
     {
-      title: 'EXPERIENCE',
-      category: 'featured-Experience',
-    },
-    {
       title: 'LIFE',
       category: 'featured-회고',
     },
     {
-      title: 'DEV',
-      category: 'featured-Dev',
+      title: 'EXPERIENCE',
+      category: 'featured-Experience',
     },
   ],
 
