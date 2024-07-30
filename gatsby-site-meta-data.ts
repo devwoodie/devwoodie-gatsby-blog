@@ -44,10 +44,10 @@ export default {
    * definition of featured posts
    */
   featured: [
-    // {
-    //   title: 'category1',
-    //   category: 'featured-category1',
-    // },
+    {
+      title: 'DEV',
+      category: 'featured-Dev',
+    },
     {
       title: 'LIFE',
       category: 'featured-회고',
