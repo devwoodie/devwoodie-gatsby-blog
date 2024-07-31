@@ -4,7 +4,7 @@ import { ThemeProvider } from '@emotion/react';
 import { graphql, useStaticQuery } from 'gatsby';
 import { ThemeManagerContext } from 'gatsby-emotion-dark-mode';
 import { useContext } from 'react';
-
+import { Analytics } from "@vercel/analytics/react"
 import Footer from '../components/Footer';
 import Header from '../components/Header';
 import ThemeToggle from '../components/ThemeToggle';
@@ -42,6 +42,7 @@ const Layout: React.FC<LayoutProps> = ({ location, children }) => {
         </S.ContentWrapper>
         <Footer />
       </S.Wrapper>
+      <Analytics />
     </ThemeProvider>
   );
 };
