@@ -2,7 +2,7 @@
 emoji: 🚴
 title: 'Component Lifecycle'
 date: '2023-03-14'
-categories: Dev JS
+categories: Dev
 ---
 
 **모든 React Component에는 Lifecycle(수명 주기)이 존재합니다.**  

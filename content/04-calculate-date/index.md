@@ -2,7 +2,7 @@
 emoji: 🗓️
 title: '날짜 계산 (며칠 전, 지정된 날짜까지 배열 반환) Feat. ApexCharts'
 date: '2023-03-17'
-categories: Dev JS
+categories: Dev
 ---
 
 ---

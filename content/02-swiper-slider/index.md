@@ -2,7 +2,7 @@
 emoji: 🏄‍♂️
 title: 'swiper-slider 라이브러리 사용법(반응형)'
 date: '2022-04-26'
-categories: Dev JS
+categories: Dev
 ---
 
 ---

@@ -2,7 +2,7 @@
 emoji: 🏋️
 title: 'React Router 페이지 이동 시 스크롤 상단으로 끌어 올리기'
 date: '2024-05-19'
-categories: Dev React&RN
+categories: Dev React&Next.js
 ---
 
 ![](1.png)

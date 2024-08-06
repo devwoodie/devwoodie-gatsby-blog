@@ -2,7 +2,7 @@
 emoji: 💢
 title: 'React 에서 CORS 에러 해결하기'
 date: '2023-06-20'
-categories: Dev React&RN
+categories: Dev React&Next.js
 ---
 
 ### API 통신이 안된다.. 왜?

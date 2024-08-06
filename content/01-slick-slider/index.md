@@ -2,7 +2,7 @@
 emoji: 🚣
 title: 'slick-slider 라이브러리 사용법(반응형)'
 date: '2022-04-20'
-categories: Dev JS
+categories: Dev
 ---
 
 ---
