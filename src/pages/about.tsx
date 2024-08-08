@@ -7,6 +7,7 @@ import Seo from '../components/Seo';
 import Timestamps from '../components/Timestamps';
 import Layout from '../layout';
 import { SiteMetadata, Timestamp } from '../type';
+import Information from '../components/Information';
 
 type AboutProps = {
   data: {
@@ -31,6 +32,8 @@ const About: React.FC<AboutProps> = ({ location, data }) => {
       <Seo title='개발자 우디 | About' />
       <MainBanner author={author} />
       <Bio bio={author.bio} />
+
+      <Information />
 
       {Object.keys(stamps).map((key) => (
         <Timestamps key={key} title={key} timestamps={stamps[key]} />

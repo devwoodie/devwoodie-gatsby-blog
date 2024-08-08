@@ -37,7 +37,7 @@ export const Wrapper = styled.div`
 
   .gatsby-image-wrapper {
     position: absolute;
-    right: 70px;
+    right: 65px;
     top: -100px;
     width: 200px;
     @media ${MOBILE_MEDIA_QUERY} {
