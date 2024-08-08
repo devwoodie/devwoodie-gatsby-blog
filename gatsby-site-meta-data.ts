@@ -64,7 +64,7 @@ export default {
       en: 'UNIVS.AI',
       kr: '유니버스 AI',
       info: 'Web/App Frontend Develper',
-      link: '',
+      link: 'https://spring-fang-155.notion.site/AI-9fed11e37edd4232b7484c6936c17299',
     },
     {
       category: 'Career',
@@ -164,6 +164,19 @@ export default {
       links: {
         post: '',
         github: 'https://github.com/devwoodie/wmii-frontend',
+        demo: '',
+        googlePlay: '',
+        appStore: '',
+      },
+    },
+    {
+      title: '유니버스 AI - 회사',
+      description: '얼굴 인식 기술을 기반으로 편리하고 안전한 결제 솔루션을 제공하는 기업',
+      techStack: ['Next.js', 'JavaScript'],
+      thumbnailUrl: 'projects-thumb/default.png',
+      links: {
+        post: 'https://spring-fang-155.notion.site/AI-9fed11e37edd4232b7484c6936c17299',
+        github: '',
         demo: '',
         googlePlay: '',
         appStore: '',
