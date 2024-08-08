@@ -52,6 +52,10 @@ export default {
       title: 'EXPERIENCE',
       category: 'featured-Experience',
     },
+    {
+      title: 'DEV',
+      category: 'featured-Dev',
+    },
   ],
 
   /**
@@ -172,7 +176,7 @@ export default {
     {
       title: '유니버스 AI - 회사',
       description: '얼굴 인식 기술을 기반으로 편리하고 안전한 결제 솔루션을 제공하는 기업',
-      techStack: ['Next.js', 'JavaScript'],
+      techStack: ['Next.js', 'TypeScript'],
       thumbnailUrl: 'projects-thumb/default.png',
       links: {
         post: 'https://spring-fang-155.notion.site/AI-9fed11e37edd4232b7484c6936c17299',
