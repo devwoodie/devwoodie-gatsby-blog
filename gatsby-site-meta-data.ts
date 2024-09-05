@@ -6,7 +6,7 @@ export default {
   description: `개발자 우디`,
   language: `ko`,
   siteUrl: `https://devwoodie.com/`,
-  ogImage: ``, // Path to your in the 'static' folder
+  ogImage: `/thumbnail2.png`, // Path to your in the 'static' folder
 
   /**
    * comments setting
