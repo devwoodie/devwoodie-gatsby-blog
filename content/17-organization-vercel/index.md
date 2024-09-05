@@ -1,5 +1,5 @@
 ---
-emoji: 🔔
+emoji: 🌵
 title: 'Organization 레포를 Vercel에 자동 배포하기 Feat. Github Actions'
 date: '2024-09-05'
 categories: featured-Dev
