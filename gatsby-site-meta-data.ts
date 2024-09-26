@@ -88,6 +88,14 @@ export default {
     },
     {
       category: 'Activity',
+      date: '2024.08 - NOW',
+      en: 'Finfriends',
+      kr: '팀 핀프렌즈',
+      info: 'Development Team',
+      link: '',
+    },
+    {
+      category: 'Activity',
       date: '2023.11 - 2023.12',
       en: 'SWYP',
       kr: '스위프 2기',
