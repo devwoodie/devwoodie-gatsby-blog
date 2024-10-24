@@ -11,7 +11,7 @@ categories: Experience
 내 목표인 카카오에서 진행하는 것이라 그런지 더 애정이 갔던 것 같다. <br/>
 이번엔 내용 정리가 좀 힘들어서 들으면서 적은 그대로 담은 것 같다.
 
-강의 내용 말고 다녀온 후기는 [여기에](https://www.devwoodie.com/20-2024-ifkakao) 작성해 보았다.
+강의 내용 말고 다녀온 후기는 <a href="https://www.devwoodie.com/20-2024-ifkakao" target="_blank">여기에</a> 작성해 보았다.
 
 <br/>
 
