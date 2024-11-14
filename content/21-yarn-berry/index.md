@@ -1,6 +1,6 @@
 ---
 emoji: 🔎
-title: 'node_modules 어디갔어? (Feat. Yarn Berry)'
+title: 'node_modules 어디갔어? Feat. Yarn Berry'
 date: '2024-10-30'
 categories: Dev Node.js
 ---
