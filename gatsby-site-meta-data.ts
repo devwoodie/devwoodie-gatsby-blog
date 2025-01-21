@@ -27,7 +27,7 @@ export default {
     bio: {
       email: `ehddl453@naver.com`,
       residence: 'Seoul, South Korea',
-      bachelorDegree: 'Korea National Open Univ. Computer Science (2022.08 ~ )',
+      bachelorDegree: 'Korea National Open Univ. Computer Science',
     },
     social: {
       github: `https://github.com/devwoodie`,
@@ -85,14 +85,6 @@ export default {
       kr: '이머니',
       info: 'Web/Mobile Publisher',
       link: 'https://spring-fang-155.notion.site/eMoney-91fcd7af8d1a4788b255f0d6c6966674',
-    },
-    {
-      category: 'Activity',
-      date: '2024.08 - NOW',
-      en: 'Finfriends',
-      kr: '팀 핀프렌즈',
-      info: 'Development Team',
-      link: '',
     },
     {
       category: 'Activity',
