@@ -117,6 +117,19 @@ export default {
    */
   projects: [
     {
+      title: 'Git TIERS',
+      description: '깃허브 기여 수에 따라 티어 획득하기 ',
+      techStack: ['Next.js', 'TypeScript'],
+      thumbnailUrl: 'projects-thumb/8.png',
+      links: {
+        post: '',
+        github: 'https://github.com/git-tiers/gittiers?tab=readme-ov-file#git-tiers',
+        demo: 'https://git-tiers.devwoodie.com',
+        googlePlay: '',
+        appStore: '',
+      },
+    },
+    {
       title: '별자취',
       description: '마음을 기록하는 관계 관리 앱',
       techStack: ['React-Native', 'React', 'TypeScript'],
