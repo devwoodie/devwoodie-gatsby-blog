@@ -15,6 +15,10 @@ export const onCreateWebpackConfig: GatsbyNode['onCreateWebpackConfig'] = ({ get
         '@/assets': path.resolve(__dirname, 'assets/'),
       },
     },
+    performance: {
+      maxAssetSize: 10000000,
+      maxEntrypointSize: 10000000,
+    },
   });
 };
 

@@ -64,10 +64,18 @@ export default {
   timestamps: [
     {
       category: 'Career',
-      date: '2024.07 - NOW',
+      date: '2025.02 - NOW',
+      en: 'ITALL',
+      kr: '잇올',
+      info: 'Web Frontend Developer',
+      // link: '',
+    },
+    {
+      category: 'Career',
+      date: '2024.07 - 2025.01',
       en: 'UNIVS.AI',
       kr: '유니버스 AI',
-      info: 'Web/App Frontend Develper',
+      info: 'Web/App Frontend Developer',
       link: 'https://spring-fang-155.notion.site/AI-9fed11e37edd4232b7484c6936c17299',
     },
     {
@@ -75,7 +83,7 @@ export default {
       date: '2023.05 - 2023.12',
       en: 'Cedars E Platform',
       kr: '시더스이플랫폼',
-      info: 'Web/App Frontend Develper',
+      info: 'Web/App Frontend Developer',
       link: 'https://spring-fang-155.notion.site/IT-d6c34909dee04beaa351cf4d58e02c6a',
     },
     {
