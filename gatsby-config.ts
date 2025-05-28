@@ -26,7 +26,7 @@ const config: GatsbyConfig = {
     {
       resolve: `gatsby-plugin-google-adsense`,
       options: {
-        publisherId: `ca-pub-XXXXXXXXXXXX`,
+        publisherId: `ca-pub-9671858264073035`,
       },
     },
     // Google Analytics
@@ -87,7 +87,7 @@ const config: GatsbyConfig = {
               }
             `,
             output: '/rss.xml',
-            title: 'jeong-min.com RSS Feed',
+            title: 'devwoodie.com RSS Feed',
             match: '^/blog/',
             link: 'https://feeds.feedburner.com/gatsby/blog',
           },
@@ -104,8 +104,8 @@ const config: GatsbyConfig = {
     {
       resolve: 'gatsby-plugin-robots-txt',
       options: {
-        host: 'https://jeong-min.com/',
-        sitemap: 'https://jeong-min.com/sitemap.xml',
+        host: 'https://devwoodie.com/',
+        sitemap: 'https://devwoodie.com/sitemap.xml',
         policy: [{ userAgent: '*', allow: '/' }],
       },
     },
