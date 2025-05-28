@@ -11,6 +11,7 @@ import ThemeToggle from '../components/ThemeToggle';
 import { darkTheme, lightTheme } from '../styles/const';
 import GlobalStyle from '../styles/GlobalStyle';
 import * as S from './styled';
+import { Helmet } from 'react-helmet';
 
 type LayoutProps = {
   location: Location;
@@ -33,6 +34,13 @@ const Layout: React.FC<LayoutProps> = ({ location, children }) => {
 
   return (
     <ThemeProvider theme={theme.isDark ? darkTheme : lightTheme}>
+      <Helmet>
+        <script
+          async
+          src='https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9671858264073035'
+          crossOrigin='anonymous'
+        />
+      </Helmet>
       <GlobalStyle />
       <S.Wrapper>
         <ThemeToggle />
