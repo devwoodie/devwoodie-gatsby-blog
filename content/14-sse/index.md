@@ -2,7 +2,7 @@
 emoji: 🔔
 title: 'SSE(Server-Sent-Events)로 실시간 알림 구현하기'
 date: '2024-08-06'
-categories: featured-Dev React&Next.js
+categories: Dev React&Next.js
 ---
 
 다른 페이지에 있을 때도 알림이 오면 보여주는 기능을 만들려고 한다.

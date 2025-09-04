@@ -45,16 +45,16 @@ export default {
    */
   featured: [
     {
+      title: 'Woodie Labs',
+      category: 'featured-Dev',
+    },
+    {
       title: 'LIFE',
       category: 'featured-회고',
     },
     {
       title: 'EXPERIENCE',
       category: 'featured-Experience',
-    },
-    {
-      title: 'DEV',
-      category: 'featured-Dev',
     },
   ],
 

@@ -2,7 +2,7 @@
 emoji: 🏗️
 title: 'PR 올릴 때 빌드 테스트하기 Feat. Github Actions'
 date: '2024-09-20'
-categories: featured-Dev
+categories: Dev
 ---
 
 저번 포스트에서 [Organization 레포를 Vercel에 자동 배포하는 방법](https://www.devwoodie.com/17-organization-vercel)을 다뤘다. 
