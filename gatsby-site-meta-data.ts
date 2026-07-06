@@ -32,7 +32,7 @@ export default {
     social: {
       github: `https://github.com/devwoodie`,
       linkedIn: `https://www.linkedin.com/in/dongwoo-yu`,
-      resume: `https://spring-fang-155.notion.site/Tidy-Code-3b8fa188e4e34a95bd5b2299d7ff86bd`,
+      resume: `https://docs.google.com/document/d/1cYuqJLXrXDlR150D-KkIZLenmXw6Fmt55q6rcCqb3dw/edit?usp=sharing`,
     },
     dropdown: {
       blog: 'https://devwoodie.github.io',
